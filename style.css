@@ -1,0 +1,143 @@
+.foto{
+    background:grey;
+
+font-size: 3em;
+text-align: center;
+width: 5em;
+height: 5em;
+box-sizing: border-box;
+overflow: hidden;
+
+border-radius: 55%;
+border-left: 200px;
+}
+img{
+width: 100%;
+}
+
+h4{
+    margin-top: -20px;
+    color: grey;
+margin-left:35px
+ }
+
+ h6{
+    margin-top: -20px;
+    color: grey;
+font-size: 15px;
+ }
+.box{
+   border: 2px solid grey;
+
+}
+.lebenslauf{
+     border: 2px solid grey;
+color: white;
+background-color: grey;
+
+}
+
+.Portfolio{
+   
+    border: 2px solid grey;
+    color: white;
+    background-color: grey;
+    margin-top: 15px;
+}
+.Skills{
+    border: 2px solid grey;
+    color: white;
+    background-color: grey;
+    margin-top: 15px;
+}
+.Kontakt{
+    border: 2px solid grey;
+    color: white;
+    background-color: grey;
+    margin-top: 15px;
+}
+.my-icon{
+    font-size: 55px;
+    float: right;
+}
+.box2{
+    border: 2px solid grey;
+   
+}
+.pdf{
+    margin-top: 160px;
+}
+.text{
+    color: gray;
+}
+.box3{
+
+   border: 2px solid grey;
+ 
+}
+
+.num{
+    color: gray;
+}
+.skills{
+    color: gray;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.meine{
+    color: gray;
+    margin-left: 20px;
+}
+.box4{
+border: 2px solid grey;
+} 
+.box5{
+    border: 2px solid grey;
+}
+.icon1{
+color: blue;
+font-size: 50px;
+}
+.icon2{
+    color: blue;
+    font-size: 50px;
+}.icon3{
+    color: blue;  
+    font-size: 50px;
+}.icon4{
+    color: blue;  
+    font-size: 50px;
+}.icon5{
+    color: blue; 
+    font-size: 50px;
+}
+.span1{
+    color: black;
+    font-size: 30px;
+}
+.iconbox{
+
+margin-left: 20px;
+margin-top: 20px;
+}
+.boxbox{
+
+border: 2px solid gray;  height: 20px;
+border-radius:20px;
+
+}
+.boxin1{
+border: 10px solid blue; width: 300px;
+border-radius:20px;
+
+}
+.boxin2{
+    border: 10px solid blue; width: 200px;
+    border-radius:20px;
+    
+}
+.boxin3{
+    border: 10px solid blue; width: 250px;
+    border-radius:20px;
+    
+}
